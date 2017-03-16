@@ -19,30 +19,30 @@
 2. length-返回字符串的长度
 3. prototype-允许向对象添加属性和方法
 # 逻辑运算符
-* &&-and
-* ||-or
-* !-not
+* &&-and   
+* ||-or  
+* !-not  
 
-#循环
+# 循环
 for/in-循环遍历对象的属性
 
-#typeof操作符
+# typeof操作符
 检测变量的数据类型   
 `typeof null`返回object；  
 `null==undefined`-true;  
 数组是一种特殊的对象类型；  
-#Javascript类型转换
+# Javascript类型转换
 * `Number()`转换为数字
 * `String()`转换为字符串
 * `Boolean()`转换为布尔值
-#Javascript数据类型
-###5种数据类型
+# Javascript数据类型
+### 5种数据类型
 1. string
 2. number
 3. boolean
 4. object
 5. function
-###3种对象类型
+### 3种对象类型
 1. Object
 2. Date
 3. Array
