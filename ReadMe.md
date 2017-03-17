@@ -46,7 +46,7 @@ for/in-循环遍历对象的属性
 1. Object
 2. Date
 3. Array
-###2个不含任何值的数据类型
+### 2个不含任何值的数据类型
 1. null
 2. undefined
 
