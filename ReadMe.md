@@ -49,4 +49,12 @@ for/in-循环遍历对象的属性
 ### 2个不含任何值的数据类型
 1. null
 2. undefined
-
+# 使用constructor属性来查看对象是否为数组
+`function isArray(myArray){
+	return myArray.constructor.toString().indexof("Array")>-1;
+}`
+# Javascript正则表达式(Regular Expression),简写regex，regexp或者RE
+使用单个字符串来描述，匹配一系列符合某个句法规则的字符串搜索模式。  
+搜索模式可用于文本搜索（search(),返回起始位置）和文本替换（replace()）   
+### 语法
+/正则表达式主体/修饰符(可选)
